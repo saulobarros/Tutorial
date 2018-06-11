@@ -1,0 +1,1406 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180610000500 -0300" stop="20180610015500 -0300" channel="Telecine Premium">
+    <title lang="pt">Uma História de Vingança</title>
+    <desc lang="pt">Uma mãe é vítima de uma violação brutal e um policial inconformado decide vingar o sofrimento dela com as próprias mãos(n)</desc>
+    <credits>
+      <director>Johnny Martin</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Anna Hutchison</actor>
+      <actor>Talitha Bateman</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610015500 -0300" stop="20180610035500 -0300" channel="Telecine Premium">
+    <title lang="pt">Vida Dupla</title>
+    <desc lang="pt">David e Claire vivem um relacionamento perfeito, até o dia em que ela desaparece misteriosamente. Inconformado com a situação, David parte em busca da namorada, mas acaba em um perigoso caminho(n)</desc>
+    <credits>
+      <director>Zack Whedon</director>
+      <actor>Annabelle Wallis</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Garret Dillahunt</actor>
+      <actor>Enver Gjokaj</actor>
+      <actor>Terry Chen</actor>
+      <actor>Zachary Knighton</actor>
+      <actor>Chris Chalk</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610035500 -0300" stop="20180610053000 -0300" channel="Telecine Premium">
+    <title lang="pt">Convidados Sem Honra</title>
+    <desc lang="pt">Eloise levou um fora de seu namorado e, com isso, deixou de ser madrinha do casamento da sua até então cunhada(n)</desc>
+    <credits>
+      <director>Jeffrey Blitz</director>
+      <actor>Anna Kendrick</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Craig Robinson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610053000 -0300" stop="20180610071500 -0300" channel="Telecine Premium">
+    <title lang="pt">Os Irmãos</title>
+    <desc lang="pt">Reymund abdicou dos seus sonhos para criar seu irmão mais novo. Quando a mãe deles sai da prisão, disposta a recuperar a família, os irmãos decidem fugir para a costa da Califórnia(n)</desc>
+    <credits>
+      <director>Soham Mehta</director>
+      <actor>Taylor Lautner</actor>
+      <actor>Nico Christou</actor>
+      <actor>Constance Zimmer</actor>
+      <actor>Kenny Johnson</actor>
+      <actor>Nichelle Hines</actor>
+      <actor>Austin Michael Coleman</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610071500 -0300" stop="20180610090000 -0300" channel="Telecine Premium">
+    <title lang="pt">Não Ultrapasse</title>
+    <desc lang="pt">Chad Cutler vem de uma família de criminosos. Ele quer deixar seu passado para trás e viver sossegado com sua mulher e filhos(n)</desc>
+    <credits>
+      <director>Adam Smith</director>
+      <actor>Brendan Gleeson</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Lyndsey Marshal</actor>
+      <actor>Georgie Smith</actor>
+      <actor>Sean Harris</actor>
+      <actor>Gerard Kearns</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610090000 -0300" stop="20180610104500 -0300" channel="Telecine Premium">
+    <title lang="pt">Borboleta Negra</title>
+    <desc lang="pt">Paul, um escritor recluso e sem sucesso vive em uma cidade que está lidando com sequestros e assassinatos. Após um jantar em que encontra o vagabundo Jack, Paul acaba oferecendo a Jack um lugar para ficar(n)</desc>
+    <credits>
+      <director>Brian Goodman</director>
+      <actor>Antonio Banderas</actor>
+      <actor>Jonathan Rhys-Meyers</actor>
+      <actor>Piper Perabo</actor>
+      <actor>Nicholas Aaron</actor>
+      <actor>Abel Ferrara</actor>
+      <actor>Nathalie Rapti Gomez</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610104500 -0300" stop="20180610122500 -0300" channel="Telecine Premium">
+    <title lang="pt">Mamãe, Voltei</title>
+    <desc lang="pt">Stéphanie, que é arquiteta e tem 40 anos, nunca imaginou que seria forçada a morar novamente com a mãe, Jacqueline. A mãe fica feliz com a novidade,(n)</desc>
+    <credits>
+      <director>Eric Lavaine</director>
+      <actor>Josiane Balasko</actor>
+      <actor>Mathilde Seigner</actor>
+      <actor>Alexandra Lamy</actor>
+      <actor>Didier Flamand</actor>
+      <actor>Guilaine Londez</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610122500 -0300" stop="20180610141500 -0300" channel="Telecine Premium">
+    <title lang="pt">Um Tio Quase Perfeito</title>
+    <desc lang="pt">Tony é um malandro trambiqueiro. Depois de ser despejado de casa, procura Angela, sua irmã com quem não fala há anos, que cai na lábia dele e se oferece para dividirem o mesmo teto(n)</desc>
+    <credits>
+      <director>Pedro Antonio</director>
+      <actor>João Barreto</actor>
+      <actor>Sofia Barros</actor>
+      <actor>Eduardo Galvão</actor>
+      <actor>Bia Montez</actor>
+      <actor>Ana Lúcia Torre</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610141500 -0300" stop="20180610155500 -0300" channel="Telecine Premium">
+    <title lang="pt">Águas Rasas</title>
+    <desc lang="pt">Para refletir sobre a morte da mãe, Nancy resolve surfar em uma praia isolada, onde acaba sendo atacada por um tubarão(n)</desc>
+    <credits>
+      <director>Jaume Collet - Serra</director>
+      <actor>Blake Lively</actor>
+      <actor>Óscar Jaenada</actor>
+      <actor>Angelo Josue Lozano Corzo</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Sedona Legge</actor>
+      <actor>Pablo Calva</actor>
+      <actor>Diego Espejel</actor>
+      <actor>Janelle Bailey</actor>
+      <actor>Ava Dean</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610155500 -0300" stop="20180610175000 -0300" channel="Telecine Premium">
+    <title lang="pt">xXx: Reativado</title>
+    <desc lang="pt">Quando uma arma poderosa é roubada e pode cair nas mãos de terroristas, Xander Cage desiste da aposentadoria, volta à ação e recruta um novo grupo para ajudá-lo(n)</desc>
+    <credits>
+      <director>D.J. Caruso</director>
+      <actor>Vin Diesel</actor>
+      <actor>Donnie Yen</actor>
+      <actor>Deepika Padukone</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610175000 -0300" stop="20180610194000 -0300" channel="Telecine Premium">
+    <title lang="pt">Quatro Vidas de um Cachorro</title>
+    <desc lang="pt">Um cachorro morre e reencarna várias vezes na Terra. Embora encontre novas pessoas e viva muitas aventuras, ele mantém sempre o sonho de reencontrar o seu primeiro dono, Ethan, seu maior amigo e o grande amor de sua vida(n)</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <actor>Josh Gad</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Peggy Lipton</actor>
+      <actor>Bryce Gheisar</actor>
+      <actor>K.J. Apa</actor>
+      <actor>Juliet Rylance</actor>
+      <actor>Luke Kirby</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Michael Bofshever</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610194000 -0300" stop="20180610220000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Bela e a Fera</title>
+    <desc lang="pt">Moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida em troca dele(n)</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Emma Watson</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Luke Evans</actor>
+      <actor>Josh Gad</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Hattie Morahan</actor>
+      <actor>Haydn Gwynne</actor>
+      <actor>Gerard Horan</actor>
+      <actor>Ray Fearon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180611000500 -0300" channel="Telecine Premium">
+    <title lang="pt">Planeta dos Macacos: A Guerra</title>
+    <desc lang="pt">Humanos e macacos cruzam os caminhos novamente. César e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel. Dessa jornada, o futuro do planeta poderá estar em jogo(n)</desc>
+    <credits>
+      <director>Matt Reeves</director>
+      <actor>Andy Serkis</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Karin Konoval</actor>
+      <actor>Michael Adamthwaite</actor>
+      <actor>Sara Canning</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610002000 -0300" stop="20180610020000 -0300" channel="Telecine Action">
+    <title lang="pt">Boyka: O Imbatível</title>
+    <desc lang="pt">Quando uma morte ocorre acidentalmente no ringue, Boyka passa a questionar tudo aquilo em que ele acredita. Ao descobrir que a mulher do homem morto está em apuros, Boyka faz de tudo para ajudá-la(n)</desc>
+    <credits>
+      <director>Todor Chapkanov</director>
+      <actor>Alon Aboutboul</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Teodora Duhovnikova</actor>
+      <actor>Julian Vergov</actor>
+      <actor>Brahim Achabbakhe</actor>
+      <actor>Valenti Ganev</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610020000 -0300" stop="20180610040000 -0300" channel="Telecine Action">
+    <title lang="pt">Soldado Universal: Juízo Final</title>
+    <desc lang="pt">John tem sua mulher e filha assassinadas em um ataque à sua casa, e vai atrás do responsável por isso, Luc Deveraux, que planeja, com um grupo de soldados universais, exterminar a anarquia instituindo um governo de UniSols(n)</desc>
+    <credits>
+      <director>John Hyams</director>
+      <actor>Scott Adkins</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Andrei Arlovski</actor>
+      <actor>Mariah Bonner</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180610040000 -0300" stop="20180610060000 -0300" channel="Telecine Action">
+    <title lang="pt">Sob o Domínio dos Aliens</title>
+    <desc lang="pt">Estranhos alienígenas aterrizam no interior dos Estados Unidos e dominam as mentes dos habitantes daquela região. É aí que três agentes especiais do governo americano têm que entrar em ação antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>Stuart Orme</director>
+      <actor>Donald Sutherland</actor>
+      <actor>Eric Thal</actor>
+      <actor>Julie Warner</actor>
+      <actor>Keith David</actor>
+      <actor>Will Patton</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Tom Mason</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610060000 -0300" stop="20180610075500 -0300" channel="Telecine Action">
+    <title lang="pt">2:22 - Contagem Regressiva</title>
+    <desc lang="pt">Em uma noite de nevasca, um grupo de quatro criminosos arma um assalto de rotina, mas desta vez as coisas não sairão conforme combinado, A partir daí... Amizade, lealdade e confiança serão colocadas em dúvida entre eles(n)</desc>
+    <credits>
+      <director>Phillip Guzman</director>
+      <actor>Mick Rossi</actor>
+      <actor>Robert Miano</actor>
+      <actor>Aaron Gallagher</actor>
+      <actor>Jorge A. Jimenez</actor>
+      <actor>Peter Dobson</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Sile Bermingham</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610075500 -0300" stop="20180610094500 -0300" channel="Telecine Action">
+    <title lang="pt">Plano de Voo</title>
+    <desc lang="pt">Kyle Pratt entra em pânico após perceber o sumiço de sua filha de 6 anos em pleno voo. Desesperada, Kyle precisa provar à tripulação e aos passageiros sua sanidade e ao mesmo tempo convencer a si mesmo que não está enlouquecendo(n)</desc>
+    <credits>
+      <director>Robert Schwentke</director>
+      <actor>Jodie Foster</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Kate Beahan</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Jana Kolesarova</actor>
+      <actor>Marlene Lawston</actor>
+      <actor>Sean Bean</actor>
+      <actor>Greta Scacchi</actor>
+      <actor>Michael Irby</actor>
+      <actor>Assaf Cohen</actor>
+      <actor>Christian Berkel</actor>
+      <actor>Shane Edelman</actor>
+      <actor>Mary Gallagher</actor>
+      <actor>Haley Ramm</actor>
+      <actor>Forrest Landis</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610094500 -0300" stop="20180610120500 -0300" channel="Telecine Action">
+    <title lang="pt">Anjos da Noite - Underworld</title>
+    <desc lang="pt">Vampira justiceira apaixona-se por lobisomem no exato momento em que eclode uma guerra entre as duas raças(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Kate Beckinsale</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Shane Brolly</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Erwin Leder</actor>
+      <actor>Sophia Myles</actor>
+      <actor>Robbie Gee</actor>
+      <actor>Zita Görög</actor>
+      <actor>Todd Schneider</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610120500 -0300" stop="20180610140500 -0300" channel="Telecine Action">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <credits>
+      <director>Dave Green</director>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>Laura Linney</actor>
+      <actor>Stephen Amell</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Jeremy Howard</actor>
+      <actor>Pete Ploszek</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Tyler Perry</actor>
+      <actor>Brian Tee</actor>
+      <actor>Stephen Farrelly</actor>
+      <actor>Brad Garrett</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610140500 -0300" stop="20180610161500 -0300" channel="Telecine Action">
+    <title lang="pt">O Senhor das Armas</title>
+    <desc lang="pt">Yuri Orlov é um imigrante da União Soviética que buscou uma nova vida nos EUA. Traficando armas ilegalmente, ele põe à prova a moralidade do seu trabalho ao ser perseguido por um agente da Interpol(n)</desc>
+    <credits>
+      <director>Andrew Niccol</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Jared Leto</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Ian Holm</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Shake Tukhmanyan</actor>
+      <actor>Jared Burke</actor>
+      <actor>Eric Uys</actor>
+      <actor>David Shumbris</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Larissa Bond</actor>
+      <actor>Kutcha</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610161500 -0300" stop="20180610175500 -0300" channel="Telecine Action">
+    <title lang="pt">Busca Explosiva</title>
+    <desc lang="pt">Depois de ser liberado do serviço do exército no Iraque, o fuzileiro John Triton descobre que a sua esposa Kate foi seqüestrada por ladrões de jóias comandados por um perigoso assassino. Triton parte em busca da esposa(n)</desc>
+    <credits>
+      <director>John Bonito</director>
+      <actor>John Cena</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Kelly Carlson</actor>
+      <actor>Anthony Ray Parker</actor>
+      <actor>Abigail Bianca</actor>
+      <actor>Jerome Ehlers</actor>
+      <actor>Manu Bennett</actor>
+      <actor>Drew Powell</actor>
+      <actor>Firass Dirani</actor>
+      <actor>Steve Harman</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610175500 -0300" stop="20180610201000 -0300" channel="Telecine Action">
+    <title lang="pt">Star Trek: Sem Fronteiras</title>
+    <desc lang="pt">Em seu terceiro ano de missão de exploração do espaço, Kirk, Spock e a tripulação da Enterprise recebem um pedido de ajuda(n)</desc>
+    <credits>
+      <director>Justin Lin</director>
+      <actor>Zoe Saldana</actor>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Idris Elba</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610201000 -0300" stop="20180610220000 -0300" channel="Telecine Action">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Chev Chelios é um matador de aluguel que foi envenenado por um tipo de substância que pode matá-lo a qualquer momento se os seus batimentos cardíacos caírem até certo grau. Ele precisará de muita adrenalina para se manter vivo(n)</desc>
+    <credits>
+      <director>Brian Taylor</director>
+      <director>Mark Neveldine</director>
+      <actor>Jason Statham</actor>
+      <actor>Amy Smart</actor>
+      <actor>Jose Pablo Cantillo</actor>
+      <actor>Efren Ramirez</actor>
+      <actor>Dwight Yoakam</actor>
+      <actor>Reno Wilson</actor>
+      <actor>Carlos Sanz</actor>
+      <actor>Glenn Howerton</actor>
+      <actor>Valarie Rae Miller</actor>
+      <actor>David Brown</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180610234500 -0300" channel="Telecine Action">
+    <title lang="pt">O Código</title>
+    <desc lang="pt">Luke é um ex-policial que salva uma menina de bandidos dentro do metrô. Depois disso, descobre que ela tem uma informação de extrema importância para as máfias russa, chinesa e diversos grupos corruptos(n)</desc>
+    <credits>
+      <director>Boaz Yakin</director>
+      <actor>Jason Statham</actor>
+      <actor>Catherine Chan</actor>
+      <actor>Robert John Burke</actor>
+      <actor>James Hong</actor>
+      <actor>Anson Mount</actor>
+      <actor>Chris Sarandon</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610234500 -0300" stop="20180611002000 -0300" channel="Telecine Action">
+    <title lang="pt">A Última Ameaça</title>
+    <desc lang="pt">Um piloto da força aérea americana rouba duas armas nucleares com o intuito de devolvê-las para o governo dos Estados Unidos em troca de 250 milhões de dólares(n)</desc>
+    <credits>
+      <director>John Woo</director>
+      <actor>John Travolta</actor>
+      <actor>Christian Slater</actor>
+      <actor>Samantha Mathis</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610001000 -0300" stop="20180610015500 -0300" channel="Telecine Touch">
+    <title lang="pt">Os Últimos Sobreviventes</title>
+    <desc lang="pt">Em um futuro pós-apocalíptico, a vida na Terra é diferente da que se conhece. Após uma catástrofe, toda a vida adulta acabou, restando na população somente crianças e jovens(n)</desc>
+    <credits>
+      <director>Matthew Ogens</director>
+      <actor>Sophie Kennedy Clark</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Patrick Schwarzenegger</actor>
+      <actor>Joe Cipriano</actor>
+      <actor>James Bloor</actor>
+      <actor>Derek Brandon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610015500 -0300" stop="20180610034500 -0300" channel="Telecine Touch">
+    <title lang="pt">Conflitos e Reencontros</title>
+    <desc lang="pt">Um acidente dentro de uma mina de carvão provoca a morte de todas as pessoas envolvidas exceto Amos. Enquanto os moradores da cidade vivem a dor da tragédia, um adolescente desaparece(n)</desc>
+    <credits>
+      <director>Sara Colangelo</director>
+      <actor>Elizabeth Banks</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Josh Lucas</actor>
+      <actor>James DeForest Parker</actor>
+      <actor>Alexia Rasmussen</actor>
+      <actor>Travis tope</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610034500 -0300" stop="20180610055000 -0300" channel="Telecine Touch">
+    <title lang="pt">Velhos Tempos</title>
+    <desc lang="pt">Anthony Rodriguez teve uma vida difícil, com um pai alcóolatra e a perda prematura de sua mãe. Anthony contará com o apoio do treinador Enzo, e fará de tudo para se tornar um boxeador profissional(n)</desc>
+    <credits>
+      <director>Paul Borghese</director>
+      <actor>Alec Baldwin</actor>
+      <actor>Michael Madsen</actor>
+      <actor>William Demeo</actor>
+      <actor>Danny Glover</actor>
+      <actor>Shannen Doherty</actor>
+      <actor>Mike Tyson</actor>
+      <actor>Patricia Stark</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610055000 -0300" stop="20180610074500 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor Impossível</title>
+    <desc lang="pt">Harriet é representante de um sheik que quer introduzir a pesca de salmão no Iêmen. Para isso, ela procura o Dr. Alfred que não acredita no projeto, mas é obrigado a tentar torná-lo realidade(n)</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <actor>Emily Blunt</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Amr Waked</actor>
+      <actor>Rachael Stirling</actor>
+      <actor>Tom Mison</actor>
+      <actor>Alex Taylor-McDowall</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610074500 -0300" stop="20180610094500 -0300" channel="Telecine Touch">
+    <title lang="pt">Antes e Depois</title>
+    <desc lang="pt">Quando uma adolescente é brutalmente assassinada, o principal suspeito é o seu namorado Jacob, que está desaparecido. Para acobertar o suposto crime do filho, Ben destrói todas as evidências que possam prejudicá-lo(n)</desc>
+    <credits>
+      <director>Barbet Schroeder</director>
+      <actor>Meryl Streep</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Alfred Molina</actor>
+      <actor>John Heard</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610094500 -0300" stop="20180610114500 -0300" channel="Telecine Touch">
+    <title lang="pt">No Rastro da Bala</title>
+    <desc lang="pt">Nick Tortano é um ambicioso criminoso das ruas de Boston. Após anos de trabalho, ele finalmente consegue o respeito do mafioso italiano Sal Vitaglia(n)</desc>
+    <credits>
+      <director>James Mottern</director>
+      <actor>Ben Barnes</actor>
+      <actor>Leighton Meester</actor>
+      <actor>Slaine</actor>
+      <actor>Ritchie Coster</actor>
+      <actor>Kenny Wormald</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Armen Garo</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610114500 -0300" stop="20180610134500 -0300" channel="Telecine Touch">
+    <title lang="pt">Roteiro de Casamento</title>
+    <credits>
+      <director>Juan Taratuto</director>
+      <actor>Adrián Suar</actor>
+      <actor>Valeria Bertuccelli</actor>
+      <actor>Gerardo Romano</actor>
+      <actor>Norman Briski</actor>
+      <actor>Alan Sabbagh</actor>
+      <actor>Marina Bellati</actor>
+      <actor>María Alche</actor>
+      <actor>Analía Couceyro</actor>
+      <actor>Diego Benedetto</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610134500 -0300" stop="20180610160000 -0300" channel="Telecine Touch">
+    <title lang="pt">Os Dez Mandamentos - O Filme</title>
+    <desc lang="pt">Acolhido pela filha do faraó ainda bebê, Moisés cresce como príncipe do Egito, mas volta-se contra sua família adotiva em favor do sofrido povo de Israel, que por ele deverá ser conduzido à libertação(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Guilherme Winter</actor>
+      <actor>Sérgio Marone</actor>
+      <actor>Camila Rodrigues</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610160000 -0300" stop="20180610175500 -0300" channel="Telecine Touch">
+    <title lang="pt">Mesmo se Nada der Certo</title>
+    <desc lang="pt">Gretta namora há muito tempo com o músico Dave, que ao conseguir um contrato com uma grande gravadora abandona a namorada para ficar com outra mulher. Em uma apresentação informal em um bar, Gretta conhece Dan, um produtor musical(n)</desc>
+    <credits>
+      <director>John Carney</director>
+      <actor>Mark Ruffalo</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Mos Def</actor>
+      <actor>James Corden</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Paul Romero</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610175500 -0300" stop="20180610200000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Nascimento de Uma Nação</title>
+    <desc lang="pt">Em 1831, em Virgínia, o escravo Nat Turner é usado por seu proprietário, Samuel Turner, para pregar e acalmar os escravos rebeldes(n)</desc>
+    <credits>
+      <director>Nate Parker</director>
+      <actor>Nate Parker</actor>
+      <actor>Armie Hammer</actor>
+      <actor>Penelope Ann Miller</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610200000 -0300" stop="20180610220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Enquanto Você Dormia</title>
+    <desc lang="pt">Atrás de um guichê do metrô, Lucy leva uma vida solitária. Sua grande alegria é ver o charmoso advogado Peter passar sempre apressado pela roleta(n)</desc>
+    <credits>
+      <director>Jon Turteltaub</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Peter Gallagher</actor>
+      <actor>Peter Boyle</actor>
+      <actor>Glynis Johns</actor>
+      <actor>Jack Warden</actor>
+      <actor>Micole Mercurio</actor>
+      <actor>Jason Bernard</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Ally Walker</actor>
+      <actor>Monica Keena</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180611001000 -0300" channel="Telecine Touch">
+    <title lang="pt">Quando o Amor Acontece</title>
+    <desc lang="pt">Ao descobrir que o marido e a melhor amiga são amantes, mulher volta com a filha para o Texas para reconstruir sua vida(n)</desc>
+    <credits>
+      <director>Forest Whitaker</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Harry Connick Jr</actor>
+      <actor>Gena Rowlands</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Michael Paré</actor>
+      <actor>Cameron Finley</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Bill Cobbs</actor>
+      <actor>Connie Ray</actor>
+      <actor>Mona Lee Fultz</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610000000 -0300" stop="20180610021000 -0300" channel="Telecine Fun">
+    <title lang="pt">Missão Madrinha de Casamento</title>
+    <desc lang="pt">Annie é eleita para ser a dama de honra de sua melhor amiga. Annie tem que levá-la a uma viagem selvagem rumo ao matrimônio. Ao fazê-lo, enfrenta suas próprias faltas e descobre uma nova possibilidade para o amor(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Kristen Wiig</actor>
+      <actor>Terry Crews</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Jessica St. Clair</actor>
+      <actor>Tom Yi</actor>
+      <actor>Elaine Kao</actor>
+      <actor>Michael Hitchcock</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610021000 -0300" stop="20180610035000 -0300" channel="Telecine Fun">
+    <title lang="pt">Doze é Demais 2</title>
+    <desc lang="pt">A família Baker está de volta em uma aventura maior ainda. O casal Tom e Kate dessa vez embarca com seus 12 filhos em uma viagem ao rústico Lago Winnetka, no que pode ser sua última viagem como uma família(n)</desc>
+    <credits>
+      <director>Adam Shankman</director>
+      <actor>Steve Martin</actor>
+      <actor>Bonnie Hunt</actor>
+      <actor>Alyson Stoner</actor>
+      <actor>Forrest Landis</actor>
+      <actor>Morgan York</actor>
+      <actor>Liliana Mumy</actor>
+      <actor>Jacob Smith</actor>
+      <actor>Tom Welling</actor>
+      <actor>Brent Kinsman</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610035000 -0300" stop="20180610055000 -0300" channel="Telecine Fun">
+    <title lang="pt">Anjos da Lei 2</title>
+    <desc lang="pt">Depois das aventuras e confusões no combate ao tráfico de drogas em ambiente escolar, os oficiais Schmidt (Jonah Hill) e Jenko (Channing Tatum) têm agora uma nova missão: se infiltrar em uma faculdade local(n)</desc>
+    <credits>
+      <director>Phil Lord</director>
+      <director>Christopher Miller</director>
+      <actor>Jonah Hill</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Wyatt Russell</actor>
+      <actor>Amber Stevens</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Ice Cube</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610055000 -0300" stop="20180610074000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Homem da Casa</title>
+    <desc lang="pt">O pequeno Ben não foi com a cara do novo namorado da mãe, e ele vai fazer tudo o que pode para impedir que o sujeito ganhe a atenção dela(n)</desc>
+    <credits>
+      <director>James Orr</director>
+      <actor>Chevy Chase</actor>
+      <actor>Farrah Fawcett</actor>
+      <actor>Jonathan Taylor Thomas</actor>
+      <actor>David Shiner</actor>
+      <actor>Art LaFleur</actor>
+      <actor>Richard Portnow</actor>
+      <actor>Richard Foronjy</actor>
+      <actor>Peter Appel</actor>
+      <actor>Georg Greif</actor>
+      <actor>Ron Canada</actor>
+      <actor>Spencer Vrooman</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610074000 -0300" stop="20180610092000 -0300" channel="Telecine Fun">
+    <title lang="pt">Anastasia (1997)</title>
+    <desc lang="pt">Pequena princesa sobrevive à revolução, mas perde a memória, 10 anos depois um vigarista a convence que ela pode ser a princesa desaparecida(n)</desc>
+    <credits>
+      <director>Don Bluth</director>
+      <director>Gary Goldman</director>
+      <actor>Vozes de Meg Ryan</actor>
+      <actor>John Cusack</actor>
+      <actor>Kelsey Grammer</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Bernadette Peters</actor>
+      <actor>Andrea Martin</actor>
+      <actor>Charity James</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610092000 -0300" stop="20180610105000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Rei Leão 2 - O Reino de Simba</title>
+    <desc lang="pt">Kiara, filha de Simba e Nala, nasce herdeira das Terras do Reino. Ela descobre com Timão e Pumba, que seu pai expulsou do reino todos os leões que foram fiéis a Scar(n)</desc>
+    <credits>
+      <director>Darrell Rooney</director>
+      <director>Rob LaDuca</director>
+      <actor>Vozes de Moira Kelly</actor>
+      <actor>Andy Dick</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Liz Callaway</actor>
+      <actor>Michelle Horn</actor>
+      <actor>Ashley Edner</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610105000 -0300" stop="20180610123500 -0300" channel="Telecine Fun">
+    <title lang="pt">Você não pode Beijar a Noiva</title>
+    <desc lang="pt">Bryan é obrigado a casar com a filha de um gangster croata para que ela consiga a cidadania americana, mas recebe ordens do(n)</desc>
+    <credits>
+      <director>Rob Hedden</director>
+      <actor>Dave Annable</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Mena Suvari</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Stephen Tobolowsky</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610123500 -0300" stop="20180610143000 -0300" channel="Telecine Fun">
+    <title lang="pt">Entrando Numa Fria</title>
+    <desc lang="pt">Greg pretende se casar, mas uma série de eventos inesperados fazem com que ele pareça ser o rei do desastre e um fracassado aos olhos de toda a família(n)</desc>
+    <credits>
+      <director>Jay Roach</director>
+      <actor>Bem Stiller</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Nicole DeHuff</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Teri Polo</actor>
+      <actor>Jon Abrahams</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Phyllis George</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Kali Rocha</actor>
+      <actor>John Elsen</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610143000 -0300" stop="20180610161000 -0300" channel="Telecine Fun">
+    <title lang="pt">Tarzan: A Evolução da Lenda</title>
+    <desc lang="pt">Em um acidente aéreo na selva africana, apenas uma criança sobrevive. Isolado do mundo, Tarzan cresce aprendendo as leis da selva com um grupo de gorilas. Agora, ele precisa enfrentar empresários gananciosos enviados à floresta(n)</desc>
+    <credits>
+      <director>Reinhard Klooss</director>
+      <actor>Vozes de Kellan Lutz</actor>
+      <actor>Brian Bloom</actor>
+      <actor>Robert Capron</actor>
+      <actor>Spencer Locke</actor>
+      <actor>Jaime Ray Newman</actor>
+      <actor>Mark Deklin</actor>
+      <actor>Rebecca Reaney</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610161000 -0300" stop="20180610181500 -0300" channel="Telecine Fun">
+    <title lang="pt">As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada</title>
+    <desc lang="pt">Nesta nova história da famosa saga As Crônicas de Narnia, Edmundo e Lúcia Pevensie, junto com seu primo Eustáquio Mísero, o Rei Caspian e um rato guerreiro chamado Ripchip embarcam numa viagem a bordo do Peregrino da Alvorada(n)</desc>
+    <credits>
+      <director>Michael Apted</director>
+      <actor>Georgie Henley</actor>
+      <actor>Skandar Keynes</actor>
+      <actor>Ben Barnes</actor>
+      <actor>Will Poulter</actor>
+      <actor>Gary Sweet</actor>
+      <actor>Terry Norris</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610181500 -0300" stop="20180610195500 -0300" channel="Telecine Fun">
+    <title lang="pt">Os Penetras 2: Quem dá Mais</title>
+    <desc lang="pt">Internado em uma clínica psiquiátrica, Beto está desolado por ter sido enganado por Marco, o malandro que considerava seu amigo(n)</desc>
+    <credits>
+      <director>Andrucha Waddington</director>
+      <actor>Mariana Ximenes</actor>
+      <actor>Mikhail Bronnikov</actor>
+      <actor>Stênio Garcia</actor>
+      <actor>Marcelo Adnet</actor>
+      <actor>Whindersson Nunes</actor>
+      <actor>Stepan Nercessian</actor>
+      <actor>Laila Zaid</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610195500 -0300" stop="20180610220000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Diário da Princesa</title>
+    <desc lang="pt">Garota ao saber que seu pai é um príncipe, se vê numa maratona de aulas de etiqueta tendo de escolher entre a mãe e amigos ou seu lugar na realeza(n)</desc>
+    <credits>
+      <director>Garry Marshall</director>
+      <actor>Julie Andrews</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Heather Matarazzo</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Caroline Goodall</actor>
+      <actor>Robert Schwartzman</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180610234500 -0300" channel="Telecine Fun">
+    <title lang="pt">Com a Bola Toda</title>
+    <desc lang="pt">Um jogo de queimada define o futuro de uma academia acabada, que está nos planos de um poderoso empresário do ramo(n)</desc>
+    <credits>
+      <director>Rawson Marshall Thurber</director>
+      <actor>Ben Stiller</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Christine Taylor</actor>
+      <actor>Justin Long</actor>
+      <actor>Stephen Root</actor>
+      <actor>Rip Torn</actor>
+      <actor>Joel Moore</actor>
+      <actor>Chris Williams</actor>
+      <actor>Alan Tudyk</actor>
+      <actor>Misse Pyle</actor>
+      <actor>Gary Cole</actor>
+      <actor>Jason Bateman</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610234500 -0300" stop="20180611000000 -0300" channel="Telecine Fun">
+    <title lang="pt">Popstar: Sem Parar, Sem Limites</title>
+    <desc lang="pt">Conner, um popstar de sucesso, está lidando com o fracasso de seu novo disco. Com medo de perder seu status de celebridade e vendo sua carreira entrar em colapso, ele pretende fazer de tudo para se manter no topo(n)</desc>
+    <credits>
+      <director>Akiva Schaffer</director>
+      <director>Jorma Taccone</director>
+      <actor>Andy Samberg</actor>
+      <actor>Jorma Taccone</actor>
+      <actor>Akiva Schaffer</actor>
+      <actor>Sarah Silverman</actor>
+      <actor>Tim Meadows</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Joan Cusack</actor>
+      <actor>Imogen Poots</actor>
+      <actor>Chris Redd</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610020500 -0300" stop="20180610041500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Duelo de Dinastias</title>
+    <desc lang="pt">Após se tornar discípulo de um grande feiticeiro, um órfão parte na busca da conquista do seu espaço no mundo mágico(n)</desc>
+    <credits>
+      <director>Jingming Guo</director>
+      <actor>Vozes de Bingbing Fan</actor>
+      <actor>Kris Wu</actor>
+      <actor>Cheney Chen</actor>
+      <actor>Mi Yang</actor>
+      <actor>Yun Lin</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610041500 -0300" stop="20180610061500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Terra Estranha</title>
+    <desc lang="pt">Catherine e Matthew acabam de se mudar com seus dois filhos para Nathgari, no deserto da Austrália. Quando seus filhos desaparecem misteriosamente em uma tempestade de areia, o desespero toma conta do casal(n)</desc>
+    <credits>
+      <director>Kim Farrant</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Joseph Fiennes</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Maddison Brown</actor>
+      <actor>Lisa Flanagan</actor>
+      <actor>Nicholas Hamilton</actor>
+      <actor>Sean Keenan</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610061500 -0300" stop="20180610081000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Família Bélier</title>
+    <desc lang="pt">Paula é uma adolescente cujos pais e irmão são surdos. Ela tem um papel essencial na administração da fazenda e como intérprete da família(n)</desc>
+    <credits>
+      <director>Eric Lartigau</director>
+      <actor>Karin Viard</actor>
+      <actor>François Damiens</actor>
+      <actor>Louane Emera</actor>
+      <actor>Eric Elmosnino</actor>
+      <actor>Roxane Duran</actor>
+      <actor>Luca Gelberg</actor>
+      <actor>Mar Sodupe</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610081000 -0300" stop="20180610100500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Halloween de Madea</title>
+    <desc lang="pt">Enquanto precisa vigiar um grupo de adolescentes malcomportados, Madea acaba no meio de várias assombrações(n)</desc>
+    <credits>
+      <director>Tyler Perry</director>
+      <actor>Bella Thorne</actor>
+      <actor>Tyler Perry</actor>
+      <actor>Cassi Davis</actor>
+      <actor>Patrice Lovely</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610100500 -0300" stop="20180610122000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rainha de Katwe</title>
+    <desc lang="pt">A vida de Phiona muda quando ela assiste por acaso a uma aula de xadrez, iniciando uma carreira promissora e buscando se tornar uma das melhores jogadoras do mundo(n)</desc>
+    <credits>
+      <director>Mira Nair</director>
+      <actor>Lupita Nyong'o</actor>
+      <actor>David Oyelowo</actor>
+      <actor>Madina Nalwanga</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610122000 -0300" stop="20180610142500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Gostosas, Lindas &amp; Sexies</title>
+    <desc lang="pt">Beatriz, Tânia, Ivone e Marilu são quatro amigas inseparáveis que vestem tamanhos grandes. Quase sempre com bom humor, elas enfrentam o cotidiano e os dilemas amorosos e profissionais(n)</desc>
+    <credits>
+      <director>Ernani Nunes</director>
+      <actor>Mariana Xavier</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Lyv Ziese</actor>
+      <actor>Carolinie Figueiredo</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610142500 -0300" stop="20180610161500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <desc lang="pt">Vivendo escondido no RJ, Arthur Bishop é descoberto por uma capanga enviada por Riah Crain, que quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham seus negócios(n)</desc>
+    <credits>
+      <director>Dennis Gansel</director>
+      <actor>Jason Statham</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Michelle Yeoh</actor>
+      <actor>Sam Hazeldine</actor>
+      <actor>John Cenatiempo</actor>
+      <actor>Toby Eddington</actor>
+      <actor>Anteo Quintavalle</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610161500 -0300" stop="20180610181000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Vizinhos Nada Secretos</title>
+    <desc lang="pt">Um casal suburbano se envolve em uma trama de espionagem internacional quando descobre que seus, aparentemente, perfeitos novos vizinhos são agentes secretos(n)</desc>
+    <credits>
+      <director>Greg Mottola</director>
+      <actor>Zach Galifianakis</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Ming Zhao</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Maribeth Monroe</actor>
+      <actor>Michael Liu</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610181000 -0300" stop="20180610200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Mercenários 2</title>
+    <desc lang="pt">Ao aceitar uma missão aparentemente simples, o grupo de mercenários cai em uma emboscada, e Tool termina morto. Então buscam vingança(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Jason Statham</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Jet Li</actor>
+      <actor>Chuck Norris</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610200000 -0300" stop="20180610220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Atômica</title>
+    <desc lang="pt">Lorraine Broughton, uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos(n)</desc>
+    <credits>
+      <director>David Leitch</director>
+      <actor>Charlize Theron</actor>
+      <actor>James McAvoy</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>John Goodman</actor>
+      <actor>Toby Jones</actor>
+      <actor>James Faulkner</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180610235500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Horizonte Profundo: Desastre no Golfo</title>
+    <desc lang="pt">Mark Williams luta pela sobrevivência, enquanto ajuda seus companheiros, presos durante uma explosão em uma plataforma de extração de petróleo, no Golfo do México(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Kurt Russell</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>John Malkovich</actor>
+      <actor>Douglas M. Griffin</actor>
+      <actor>Joe Chrest</actor>
+      <actor>Gina Rodriguez</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610235500 -0300" stop="20180611020500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como se Tornar o Pior Aluno da Escola</title>
+    <desc lang="pt">Bernardo e Pedro são estudantes e enfrentam as obrigações escolares, tirar boas notas e cumprir as regras da escola. Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego(n)</desc>
+    <credits>
+      <director>Fabrício Bittar</director>
+      <actor>Joana Fomm</actor>
+      <actor>Moacyr Franco</actor>
+      <actor>Raul Gazolla</actor>
+      <actor>Danilo Gentili</actor>
+      <actor>Bruno Munhoz</actor>
+      <actor>Daniel Pimentel</actor>
+      <actor>Fábio Porchat</actor>
+      <actor>Marcelo Rafael</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610020000 -0300" stop="20180610041000 -0300" channel="Telecine Cult">
+    <title lang="pt">Tocaia</title>
+    <desc lang="pt">Um perigoso criminoso acaba de fugir da prisão. Chris Lecce e Bill Riemers, dois tiras de Seattle, são designados para capturá-lo(n)</desc>
+    <credits>
+      <director>John Badham</director>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Madeleine Stowe</actor>
+      <actor>Emilio Estevez</actor>
+      <actor>Aidan Quinn</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Dan Lauria</actor>
+      <actor>Ian Tracey</actor>
+      <actor>Earl Billings</actor>
+      <actor>jackson Davies</actor>
+      <actor>J. J. Makaro</actor>
+      <actor>Scott Andersen</actor>
+      <actor>Tony Pantages</actor>
+      <actor>Beatrice Boepple</actor>
+      <actor>Kyle Wodia</actor>
+      <actor>Jan Speck</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610041000 -0300" stop="20180610061000 -0300" channel="Telecine Cult">
+    <title lang="pt">Suspeitos Incomuns</title>
+    <desc lang="pt">Um adolescente cansado de sofrer bullying decide junto ao avô e seu tio, assaltar o banco onde o pai falecido trabalhava(n)</desc>
+    <credits>
+      <director>Reshef Levi</director>
+      <actor>Patrick Stewart</actor>
+      <actor>Sasson Gabai</actor>
+      <actor>Gil Blank</actor>
+      <actor>Yaël Abecassis</actor>
+      <actor>Moshe Ivgy</actor>
+      <actor>Alexander Peleg</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610061000 -0300" stop="20180610082500 -0300" channel="Telecine Cult">
+    <title lang="pt">Sob o Domínio do Mal</title>
+    <desc lang="pt">Herói da Guerra da Coreia é envolvido em complicada trama de assassinato político(n)</desc>
+    <credits>
+      <director>John Frankenheimer</director>
+      <actor>Frank Sinatra</actor>
+      <actor>Laurence Harvey</actor>
+      <actor>Janet Leigh</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Henry Silva</actor>
+      <actor>James Gregory</actor>
+      <actor>Leslie Parrish</actor>
+      <actor>John McGiver</actor>
+      <actor>Khigh Dhiegh</actor>
+      <actor>Madame Spivy</actor>
+    </credits>
+    <date>1962</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610082500 -0300" stop="20180610102500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Engano</title>
+    <desc lang="pt">A vida de uma restauradora de obras de arte parecia um conto de fadas, ao lado do marido, até que um crime ocorre no local de trabalho de seu marido(n)</desc>
+    <credits>
+      <director>Damian Harris</director>
+      <actor>Goldie Hawn</actor>
+      <actor>John Heard</actor>
+      <actor>Robin Barlett</actor>
+      <actor>Ashley Peldon</actor>
+      <actor>Beatrice Straight</actor>
+      <actor>Damon Redfern</actor>
+      <actor>Charles Kassatly</actor>
+      <actor>George R. Robertson</actor>
+      <actor>Maia Filar</actor>
+      <actor>Tom Irwin</actor>
+      <actor>Anais Granofsky</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610102500 -0300" stop="20180610121000 -0300" channel="Telecine Cult">
+    <title lang="pt">O Valor de um Homem</title>
+    <desc lang="pt">Com 51 anos e desempregado há algum tempo, Thierry enfrenta dificuldades até finalmente conseguir um novo trabalho como segurança de um supermercado(n)</desc>
+    <credits>
+      <director>Stéphane Brizé</director>
+      <actor>Vincent Lindon</actor>
+      <actor>Karine De Mirbeck</actor>
+      <actor>Matthieu Schaller</actor>
+      <actor>Xavier Mathieu</actor>
+      <actor>Yves Ory</actor>
+      <actor>Paul Portoleau</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180610121000 -0300" stop="20180610141000 -0300" channel="Telecine Cult">
+    <title lang="pt">Tentação Morena</title>
+    <desc lang="pt">Tom é um viúvo que está tentando educar seus três filhos. Para essa tarefa ele conta com a ajuda de Cinzia, a babá. Porém, nem imagina que ela seja, na verdade, filha de uma importante família italiana tentando fugir do pai(n)</desc>
+    <credits>
+      <director>Melville Shavelson</director>
+      <actor>Cary Grant</actor>
+      <actor>Sophia Loren</actor>
+      <actor>Martha Hyer</actor>
+      <actor>Harry Guardino</actor>
+      <actor>Eduardo Ciannelli</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>Mimi Gibson</actor>
+      <actor>Paul Peterson</actor>
+      <actor>Charles Herbert</actor>
+      <actor>Madge Kennedy</actor>
+      <actor>John Litel</actor>
+      <actor>Werner Klemperer</actor>
+    </credits>
+    <date>1958</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610141000 -0300" stop="20180610155500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Amor em Fuga</title>
+    <desc lang="pt">Aos 35 anos, Antoine Doinel continua o mesmo adolescente de sempre. Recém-divorciado de sua mulher, Christine, ele começa a lembrar as pessoas que marcaram sua vida(n)</desc>
+    <credits>
+      <director>François Truffaut</director>
+      <actor>Jean-Pierre Léaud</actor>
+      <actor>Claude Jade</actor>
+      <actor>Marie-France Pisier</actor>
+      <actor>Dorothée</actor>
+      <actor>Dani</actor>
+      <actor>Daniel Mesguich</actor>
+      <actor>Julien Bertheau</actor>
+    </credits>
+    <date>1979</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180610155500 -0300" stop="20180610175500 -0300" channel="Telecine Cult">
+    <title lang="pt">Um Tiro na Noite</title>
+    <desc lang="pt">Técnico de efeitos sonoros grava sem querer um acidente de carro. Ao ouvir a fita, descobre a possibilidade de um assassinato político(n)</desc>
+    <credits>
+      <director>Brian De Palma</director>
+      <actor>John Travolta</actor>
+      <actor>Nancy Allen</actor>
+      <actor>John Lithgow</actor>
+      <actor>Dennis Franz</actor>
+      <actor>Peter Boyden</actor>
+      <actor>Curt May</actor>
+      <actor>John Aquino</actor>
+      <actor>J. Patrick McNamara</actor>
+      <actor>Cindy Manion</actor>
+    </credits>
+    <date>1981</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180610175500 -0300" stop="20180610194500 -0300" channel="Telecine Cult">
+    <title lang="pt">Kóblic</title>
+    <desc lang="pt">Durante a ditadura argentina, Kóblic, um ex-capitão da Marinha, vai para uma pequena cidade no interior com o intuito de levar uma vida normal(n)</desc>
+    <credits>
+      <director>Sebastián Borensztein</director>
+      <actor>Ricardo Darín</actor>
+      <actor>Oscar Martínez</actor>
+      <actor>Inma Cuesta</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610194500 -0300" stop="20180610220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Alien - O Oitavo Passageiro</title>
+    <desc lang="pt">A caminho da Terra, a nave Nostromo recebe um pedido de socorro de um planeta próximo. Ao desembarcar no local, um dos tripulantes é vítima de uma criatura alienígena(n)</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Tom Skerritt</actor>
+      <actor>John Hurt</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Harry Dean Staton</actor>
+      <actor>Ian Holm</actor>
+      <actor>Yaphet Kotto</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Bolaji Badejo</actor>
+    </credits>
+    <date>1979</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180611020000 -0300" channel="Telecine Cult">
+    <title lang="pt">Aliens - O Resgate</title>
+    <desc lang="pt">57 anos após ter sido resgatada da nave Nostromo, a tenente Ripley é enviada novamente ao espaço para enfrentar o ser alienígena que dizimou sua tripulação. Oscar de efeitos especiais(n)</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Sigourney Weaver</actor>
+      <actor>Carrie Henn</actor>
+      <actor>Michael Biehn</actor>
+      <actor>Lance Henricksen</actor>
+      <actor>Bill Paxton. William Hope</actor>
+      <actor>Jenette Goldstein</actor>
+      <actor>Al Mattheus</actor>
+      <actor>Ricco Ross</actor>
+      <actor>Carl Toop</actor>
+    </credits>
+    <date>1986</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+</tv>
